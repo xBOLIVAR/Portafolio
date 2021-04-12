@@ -1,0 +1,25 @@
+
+.main-nav {
+    width: 100%;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.1);
+} 
+
+.main-nav li{
+    display: inline-block;
+
+}
+
+.main-nav a{
+    color: white;
+    font-weight: 50px;
+    padding: 20px 30px;
+    display: inline-block;
+}
+
+.icon{
+    padding-top: 10px;
+    padding-left: 5px;
+}

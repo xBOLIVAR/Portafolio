@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: kalam;
+}
+
+a{
+    font-family: kalam;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    transition: all 0.5 linear;
+}
+
+a:hover{
+    transform: scale(0.9);
+}
+
+body{
+    background-color: black;
+    color: white;
+}
